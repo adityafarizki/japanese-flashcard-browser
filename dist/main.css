@@ -1,0 +1,17 @@
+.answer-container {
+    margin-top: 30px;
+}
+
+.answer-button {
+    width: 90%;
+    height: 100px;
+    color: black;
+}
+
+.answer-correct {
+    color: white;
+}
+
+.answer-wrong {
+    color: white;
+}
